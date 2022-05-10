@@ -1,3 +1,7 @@
-"Welch":
-  - firstname: ["Charles", "C."]
-    url: #https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+# "Welch":
+#   - firstname: ["Charles", "C."]
+#     url: #https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+
+scholar:
+  last_name: Welch
+  first_name: [Charlie, Charles, C.]
