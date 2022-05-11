@@ -2,10 +2,22 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I have taught and volunteer programs.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## [University of Marburg](https://www.uni-marburg.de/de)
+### Winter 2021
+Dialog Systems (LV-12-079)
 
-Organize your courses by years, topics, or universities, however you like!
+
+## [University of Michigan](https://umich.edu/)
+### Winter 2019
+Information Retrieval (EECS 486)
+### Winter - Summer 2014
+(TA) Discrete Mathematics (EECS 203)
+
+
+
+## [Chatbot Design](http://cfwelch.com/botdesign/login)
+This is a website I built to introduce students to dialog systems and coding, allowing them to create a chatbot they can talk to with a custom scripting language. This has been used in presentations at [Xplore Engineering](https://campsforkids.engin.umich.edu/xplore/), [Girls Encoded](https://girlsencoded.eecs.umich.edu/), [UT Girl Day](https://girlday.utexas.edu/), [CS Kickstart](https://sites.google.com/umich.edu/cskickstart/home), and other events primarily targeting high-school students.

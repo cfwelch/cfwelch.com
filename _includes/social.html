@@ -55,3 +55,9 @@
             {%- if site.rss_icon -%}
             <a href="{{ site.baseurl | prepend: site.url }}/feed.xml" title="RSS Feed"><i class="fas fa-rss-square"></i></a>
             {% endif %}
+            {%- if site.arxiv_id -%}
+            <a href="https://arxiv.org/a/{{ site.arxiv_id }}.html" title="arXiv"><i class="ai ai-arxiv"></i></a>
+            {% endif %}
+            {%- if site.aclanth_id -%}
+            <a href="https://aclanthology.org/people/c/{{ site.aclanth_id }}" title="ACL Anthology"><i class="icon icon-acl-logo"></i></a>
+            {% endif %}
