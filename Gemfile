@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
-    gem 'jekyll'
+    gem 'jekyll', ">=4.2.2"
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
@@ -8,7 +8,7 @@ group :jekyll_plugins do
     gem 'jekyll-github-metadata'
     gem 'jekyll-imagemagick'
     gem 'jekyll-paginate-v2'
-    gem 'jekyll-scholar'
+    gem 'jekyll-scholar', ">=7.0.0"
     gem 'jekyll-sitemap'
     gem 'jekyll-target-blank'
     gem 'jekyll-twitter-plugin'
@@ -17,6 +17,7 @@ group :jekyll_plugins do
     gem 'webrick'
     gem 'htmlcompressor'
     gem 'htmlbeautifier'
+    gem 'kramdown-parser-gfm'
 end
 group :other_plugins do
     gem 'httparty'
