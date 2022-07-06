@@ -43,7 +43,7 @@ nav: true
     </div>
     <div style="width: 100%;margin-right: auto;margin-left: auto;">
         <div style="width: 25%;float: left;">
-            <img src="../assets/img/prof_pic.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
+            <img src="../assets/img/severino_trotta.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
             <p style="font-size: 1.25em;">
                 <b>Severnio Trotta</b>
                 <br/>
