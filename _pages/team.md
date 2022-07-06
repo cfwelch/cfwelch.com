@@ -67,7 +67,7 @@ nav: true
             </p>
         </div>
         <div style="width: 25%;float: left;">
-            <img src="../assets/img/prof_pic.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
+            <img src="../assets/img/ezzeddine.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
             <p style="font-size: 1.25em;">
                 <b>Ezzeddine Ben Hadj Yahya</b>
                 <br/>
