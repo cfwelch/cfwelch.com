@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<b>I am now looking to hire a PhD student. If you're interested, please check out the job posting in <a href="assets/pdf/fb12-0011-wmz-2022-engl.pdf">English</a> or <a href="assets/pdf/fb12-0011-wmz-2022-de.pdf">German</a>!</b>
+<!-- <b>I am now looking to hire a PhD student. If you're interested, please check out the job posting in <a href="assets/pdf/fb12-0011-wmz-2022-engl.pdf">English</a> or <a href="assets/pdf/fb12-0011-wmz-2022-de.pdf">German</a>!</b> -->
 
 I am a <a href="https://hessian.ai/">Hessian.AI</a> Junior Research Group Leader and <a href="https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship">Alexander von Humboldt</a> Postdoctoral Research Fellow at the University of Marburg. I am collaborating with the <a href="https://caisa-lab.github.io/">CAISA lab</a> led by Prof. Lucie Flek. I received my PhD at the University of Michigan, advised by Prof. Rada Mihalcea, where I worked with the <a href="http://lit.eecs.umich.edu">LIT lab</a>.
 
