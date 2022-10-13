@@ -7,6 +7,9 @@ nav: true
 ---
 
 <div style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;text-align: center;overflow: hidden;">
+    <div style="width: 100%;margin-top: 50px;float: left;">
+        <h3>Current</h3>
+    </div>
     <div style="width: 100%;margin-right: auto;margin-left: auto;">
         <div style="width: 25%;float: left;">
             <img src="../assets/img/prof_pic.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
@@ -93,7 +96,9 @@ nav: true
             </p>
         </div>
     </div>
-    <div style="margin-top:50px;"><h3>Previously</h3></div>
+    <div style="width: 100%;margin-top: 50px;float: left;">
+        <h3>Previous</h3>
+    </div>
     <div style="width: 100%;margin-right: auto;margin-left: auto;">
         <div style="width: 25%;float: left;">
             <img src="../assets/img/severino_trotta.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
