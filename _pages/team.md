@@ -7,13 +7,13 @@ nav: true
 ---
 
 <div style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;text-align: center;overflow: hidden;">
-    <div style="width: 100%;margin-top: 50px;float: left;">
+    <div style="width: 100%;margin-top: 5px;float: left;">
         <h3>Current</h3>
     </div>
     <div style="width: 100%;margin-right: auto;margin-left: auto;">
         <div style="width: 25%;float: left;">
             <img src="../assets/img/prof_pic.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
-            <p style="font-size: 1.25em;">
+            <p style="font-size: 1.0em;">
                 <b>Charles Welch</b>
                 <br/>
                 Group Leader
@@ -21,7 +21,7 @@ nav: true
         </div>
         <div style="width: 25%;float: left;">
             <img src="../assets/img/lucie_flek.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
-            <p style="font-size: 1.25em;">
+            <p style="font-size: 1.0em;">
                 <b>Lucie Flek</b>
                 <br/>
                 Professor
@@ -29,7 +29,7 @@ nav: true
         </div>
         <div style="width: 25%;float: left;">
             <img src="../assets/img/allie_lahnala.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
-            <p style="font-size: 1.25em;">
+            <p style="font-size: 1.0em;">
                 <b>Allison Lahnala</b>
                 <br/>
                 PhD Student
@@ -37,7 +37,7 @@ nav: true
         </div>
         <div style="width: 25%;float: left;">
             <img src="../assets/img/joan_plepi.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
-            <p style="font-size: 1.25em;">
+            <p style="font-size: 1.0em;">
                 <b>Joan Plepi</b>
                 <br/>
                 PhD Student
@@ -47,7 +47,7 @@ nav: true
     <div style="width: 100%;margin-right: auto;margin-left: auto;">
         <div style="width: 25%;float: left;">
             <img src="../assets/img/olufunke_sarumi.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
-            <p style="font-size: 1.25em;">
+            <p style="font-size: 1.0em;">
                 <b>Olufunke Sarumi</b>
                 <br/>
                 PhD Student
@@ -55,7 +55,7 @@ nav: true
         </div>
         <div style="width: 25%;float: left;">
             <img src="../assets/img/ezzeddine.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
-            <p style="font-size: 1.25em;">
+            <p style="font-size: 1.0em;">
                 <b>Ezzeddine Ben Hadj Yahya</b>
                 <br/>
                 Masters Student
@@ -63,7 +63,7 @@ nav: true
         </div>
         <div style="width: 25%;float: left;">
             <img src="../assets/img/gilles.jpeg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
-            <p style="font-size: 1.25em;">
+            <p style="font-size: 1.0em;">
                 <b>Gilles Nawezi</b>
                 <br/>
                 Masters Student
@@ -71,7 +71,7 @@ nav: true
         </div>
         <div style="width: 25%;float: left;">
             <img src="../assets/img/fabio_gruschka.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
-            <p style="font-size: 1.25em;">
+            <p style="font-size: 1.0em;">
                 <b>Fabio Gruschka</b>
                 <br/>
                 Undergraduate
@@ -81,7 +81,7 @@ nav: true
     <div style="width: 100%;margin-right: auto;margin-left: auto;">
         <div style="width: 25%;float: left;">
             <img src="../assets/img/bela_neuendorf.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
-            <p style="font-size: 1.25em;">
+            <p style="font-size: 1.0em;">
                 <b>Béla Neuendorf</b>
                 <br/>
                 Masters Student
@@ -89,7 +89,7 @@ nav: true
         </div>
         <div style="width: 25%;float: left;">
             <!-- <img src="../assets/img/ezzeddine.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/> -->
-            <p style="font-size: 1.25em;">
+            <p style="font-size: 1.0em;">
                 <b>Sofia Romero Romero</b>
                 <br/>
                 Undergraduate
@@ -102,7 +102,7 @@ nav: true
     <div style="width: 100%;margin-right: auto;margin-left: auto;">
         <div style="width: 25%;float: left;">
             <img src="../assets/img/severino_trotta.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
-            <p style="font-size: 1.25em;">
+            <p style="font-size: 1.0em;">
                 <b>Severnio Trotta</b>
                 <br/>
                 Undergraduate
