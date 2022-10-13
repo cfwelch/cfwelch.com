@@ -90,7 +90,7 @@ nav: true
         <div style="width: 25%;float: left;">
             <!-- <img src="../assets/img/ezzeddine.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/> -->
             <p style="font-size: 1.0em;">
-                <b>Sofia Romero Romero</b>
+                <b>Sofía Romero Romero</b>
                 <br/>
                 Undergraduate
             </p>
