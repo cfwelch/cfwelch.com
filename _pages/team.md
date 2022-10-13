@@ -51,11 +51,11 @@ nav: true
             </p>
         </div>
         <div style="width: 25%;float: left;">
-            <img src="../assets/img/severino_trotta.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
+            <img src="../assets/img/ezzeddine.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
             <p style="font-size: 1.25em;">
-                <b>Severnio Trotta</b>
+                <b>Ezzeddine Ben Hadj Yahya</b>
                 <br/>
-                Undergraduate
+                Masters Student
             </p>
         </div>
         <div style="width: 25%;float: left;">
@@ -85,17 +85,20 @@ nav: true
             </p>
         </div>
         <div style="width: 25%;float: left;">
-            <img src="../assets/img/ezzeddine.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
-            <p style="font-size: 1.25em;">
-                <b>Ezzeddine Ben Hadj Yahya</b>
-                <br/>
-                Masters Student
-            </p>
-        </div>
-        <div style="width: 25%;float: left;">
             <!-- <img src="../assets/img/ezzeddine.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/> -->
             <p style="font-size: 1.25em;">
                 <b>Sofia Romero Romero</b>
+                <br/>
+                Undergraduate
+            </p>
+        </div>
+    </div>
+    <div style="margin-top:50px;"><h3>Previously</h3></div>
+    <div style="width: 100%;margin-right: auto;margin-left: auto;">
+        <div style="width: 25%;float: left;">
+            <img src="../assets/img/severino_trotta.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
+            <p style="font-size: 1.25em;">
+                <b>Severnio Trotta</b>
                 <br/>
                 Undergraduate
             </p>
