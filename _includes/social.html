@@ -58,6 +58,9 @@
             {%- if site.arxiv_id -%}
             <a href="https://arxiv.org/a/{{ site.arxiv_id }}.html" title="arXiv"><i class="ai ai-arxiv"></i></a>
             {% endif %}
+            {%- if site.mastodon_id -%}
+            <a href="https://a.sc/@cfwelch" title="Mastodon"><i class="fa-brands fa-mastodon"></i></a>
+            {% endif %}
             {%- if site.aclanth_id -%}
             <a href="https://aclanthology.org/people/c/{{ site.aclanth_id }}" title="ACL Anthology"><i class="icon icon-acl-logo"></i></a>
             {% endif %}
