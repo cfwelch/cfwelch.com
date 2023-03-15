@@ -95,6 +95,22 @@ nav: true
                 Undergraduate
             </p>
         </div>
+        <div style="width: 25%;float: left;">
+            <img src="../assets/img/marlon.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
+            <p style="font-size: 1.0em;">
+                <b><a href="https://marlon-may.de/">Marlon May</a></b>
+                <br/>
+                Undergraduate
+            </p>
+        </div>
+        <div style="width: 25%;float: left;">
+            <!-- <img src="../assets/img/ezzeddine.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/> -->
+            <p style="font-size: 1.0em;">
+                <b>Linus Erren</b>
+                <br/>
+                Undergraduate
+            </p>
+        </div>
     </div>
     <div style="width: 100%;margin-top: 50px;float: left;">
         <h3>Previous</h3>
