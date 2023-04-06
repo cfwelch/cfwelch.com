@@ -104,7 +104,7 @@ nav: true
             </p>
         </div>
         <div style="width: 25%;float: left;">
-            <img src="../assets/img/linux.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
+            <img src="../assets/img/linus.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
             <p style="font-size: 1.0em;">
                 <b>Linus Erren</b>
                 <br/>
