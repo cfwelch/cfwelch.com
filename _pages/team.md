@@ -62,9 +62,9 @@ nav: true
             </p>
         </div>
         <div style="width: 25%;float: left;">
-            <img src="../assets/img/gilles.jpeg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
+            <img src="../assets/img/fernando_maya.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
             <p style="font-size: 1.0em;">
-                <b>Gilles Nawezi</b>
+                <b>Fernando Maya</b>
                 <br/>
                 Masters Student
             </p>
@@ -122,6 +122,14 @@ nav: true
                 <b>Severnio Trotta</b>
                 <br/>
                 Undergraduate
+            </p>
+        </div>
+        <div style="width: 25%;float: left;">
+            <img src="../assets/img/gilles.jpeg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
+            <p style="font-size: 1.0em;">
+                <b>Gilles Nawezi</b>
+                <br/>
+                Masters Student
             </p>
         </div>
     </div>
