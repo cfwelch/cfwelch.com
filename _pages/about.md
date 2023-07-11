@@ -19,7 +19,9 @@ social: false  # includes social icons at the bottom of the page
 
 <!-- <b>I am now looking to hire a PhD student. If you're interested, please check out the job posting in <a href="assets/pdf/fb12-0011-wmz-2022-engl.pdf">English</a> or <a href="assets/pdf/fb12-0011-wmz-2022-de.pdf">German</a>!</b> -->
 
-I am a <a href="https://hessian.ai/">Hessian.AI</a> Junior Research Group Leader and <a href="https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship">Alexander von Humboldt</a> Postdoctoral Research Fellow at the University of Marburg. I am collaborating with the <a href="https://caisa-lab.github.io/">CAISA lab</a> led by Prof. Lucie Flek. I received my PhD at the University of Michigan, advised by Prof. Rada Mihalcea, where I worked with the <a href="http://lit.eecs.umich.edu">LIT lab</a>.
+<!-- I am a <a href="https://hessian.ai/">Hessian.AI</a> Junior Research Group Leader and <a href="https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship">Alexander von Humboldt</a> Postdoctoral Research Fellow at the University of Marburg. -->
+
+I am currently a Junior Research Group Leader at the University of Bonn. I am collaborating with the <a href="https://caisa-lab.github.io/">CAISA lab</a> led by Prof. Lucie Flek. I received my PhD at the University of Michigan, advised by Prof. Rada Mihalcea, where I worked with the <a href="http://lit.eecs.umich.edu">LIT lab</a>.
 
 My research focuses on the frontiers of customizable language generation and models of perception. I am interested in how attributes of text, such as toxicity and empathy, interact and can be used for mutual improvement. I will be investigating how these techniques can be used to study stylistic attributes as well as populations. By better modeling both people and properties of language, I hope to both make language technology more useful and to better understand how diverse groups of people view the world. With a heightened understanding of who we are solving problems for, we can more sustainably train models, reducing environmental costs and supporting a more inclusive research community.
 
