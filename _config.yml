@@ -71,7 +71,7 @@ dblp_url: https://dblp.org/pid/132/1076.html # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
 arxiv_id: welch_c_1 # your arxiv id
 aclanth_id: charles-welch # your acl anthology name
-mastodon_id: a.sc/@cfwelch # your mastodon URL
+mastodon_id: mastodon.social/@cfwelch # your mastodon URL
 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
