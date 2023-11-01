@@ -8,9 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>04C21 Fachbereich 12</p>
-    <p>Hans-Meerwein-Straβe 6</p>
-    <p>35043 Marburg Germany</p>
+    <p>Room 2.118</p>
+    <p>Friedrich-Hirzebruch-Allee 6</p>
+    <p>53115 Bonn Germany</p>
+
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
