@@ -1,0 +1,3 @@
+bundle exec jekyll build
+cd _site
+cp -r ./* /var/www/html/cfwelch
