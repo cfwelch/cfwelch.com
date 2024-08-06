@@ -8,9 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Room 2.118</p>
-    <p>Friedrich-Hirzebruch-Allee 6</p>
-    <p>53115 Bonn Germany</p>
+    <p>Room ABB C535</p>
+    <p>College Court</p>
+    <p>Hamilton, ON L8S 4L8</p>
 
 
 news: true  # includes a list of news items
@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 
 <!-- I am a <a href="https://hessian.ai/">Hessian.AI</a> Junior Research Group Leader and <a href="https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship">Alexander von Humboldt</a> Postdoctoral Research Fellow at the University of Marburg. -->
 
-I am currently a Junior Research Group Leader at the University of Bonn. I am collaborating with the <a href="https://caisa-lab.github.io/">CAISA lab</a> led by Prof. Lucie Flek. I received my PhD at the University of Michigan, advised by Prof. Rada Mihalcea, where I worked with the <a href="http://lit.eecs.umich.edu">LIT lab</a>.
+I am currently an Assistant Professor at McMaster University. In the past, I was a Junior Research Group Leader collaborating with the <a href="https://caisa-lab.github.io/">CAISA lab</a> led by Prof. Lucie Flek at the University of Bonn. I received my PhD at the University of Michigan, advised by Prof. Rada Mihalcea, where I worked with the <a href="http://lit.eecs.umich.edu">LIT lab</a>.
 
 My research focuses on the frontiers of customizable language generation and models of perception. I am interested in how attributes of text, such as toxicity and empathy, interact and can be used for mutual improvement. I will be investigating how these techniques can be used to study stylistic attributes as well as populations. By better modeling both people and properties of language, I hope to both make language technology more useful and to better understand how diverse groups of people view the world. With a heightened understanding of who we are solving problems for, we can more sustainably train models, reducing environmental costs and supporting a more inclusive research community.
 

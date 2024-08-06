@@ -36,9 +36,9 @@ nav: true
             </p>
         </div>
         <div style="width: 25%;float: left;">
-            <img src="../assets/img/joan_plepi.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
+            <img src="../assets/img/shangrui.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
             <p style="font-size: 1.0em;">
-                <b>Joan Plepi</b>
+                <b>Shangrui Nie</b>
                 <br/>
                 PhD Student
             </p>
@@ -67,24 +67,6 @@ nav: true
                 <b>Fernando Maya</b>
                 <br/>
                 Masters Student
-            </p>
-        </div>
-        <div style="width: 25%;float: left;">
-            <img src="../assets/img/nopic.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
-            <p style="font-size: 1.0em;">
-                <b>Vlad Vrabie</b>
-                <br/>
-                Masters Student
-            </p>
-        </div>
-    </div>
-    <div style="width: 100%;margin-right: auto;margin-left: auto;">
-        <div style="width: 25%;float: left;">
-            <img src="../assets/img/shangrui.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
-            <p style="font-size: 1.0em;">
-                <b>Shangrui Nie</b>
-                <br/>
-                PhD Student
             </p>
         </div>
         <div style="width: 25%;float: left;">
@@ -135,6 +117,14 @@ nav: true
     </div>
     <div style="width: 100%;margin-right: auto;margin-left: auto;">
         <div style="width: 25%;float: left;">
+            <img src="../assets/img/joan_plepi.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
+            <p style="font-size: 1.0em;">
+                <b>Joan Plepi</b>
+                <br/>
+                PhD Student
+            </p>
+        </div>
+        <div style="width: 25%;float: left;">
             <img src="../assets/img/fabio_gruschka.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
             <p style="font-size: 1.0em;">
                 <b>Fabio Gruschka</b>
@@ -146,6 +136,14 @@ nav: true
             <img src="../assets/img/bela_neuendorf.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
             <p style="font-size: 1.0em;">
                 <b>Béla Neuendorf</b>
+                <br/>
+                Masters Student
+            </p>
+        </div>
+        <div style="width: 25%;float: left;">
+            <img src="../assets/img/nopic.jpg" style="border-radius: 15px;border: black;border-width:10px;display: block;margin: 0 auto;width: 80%;"/>
+            <p style="font-size: 1.0em;">
+                <b>Vlad Vrabie</b>
                 <br/>
                 Masters Student
             </p>
