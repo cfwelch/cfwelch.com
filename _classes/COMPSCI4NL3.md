@@ -1,8 +1,9 @@
 ---
 layout: page
-permalink: /classes/COMPSCI4NL3
 title: COMPSCI 4NL3
 description: Natural Language Processing at McMaster University.
+importance: 1
+category: work
 ---
 
 <h3>Natural Language Processing</h3>
