@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /teaching/COMPSCI4NL3
+permalink: /COMPSCI4NL3
 title: COMPSCI 4NL3
 description: Natural language processing at McMaster University.
-nav: true
+nav: false
 ---
 
 <h3>Natural Language Processing</h3>
