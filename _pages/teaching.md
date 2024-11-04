@@ -8,7 +8,7 @@ nav: true
 
 ## [McMaster University](https://www.mcmaster.ca/)
 ### Winter 2025
-[Natural Language Processing (COMPSCI 4NL3)](/COMPSCI4NL3)
+[Natural Language Processing (COMPSCI 4NL3)](/classes/COMPSCI4NL3/)
 
 ## [University of Marburg](https://www.uni-marburg.de/de)
 ### Winter 2021
