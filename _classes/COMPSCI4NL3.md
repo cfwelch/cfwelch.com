@@ -39,9 +39,10 @@ Winter 2025
 <li>W12: Application Areas: Sociolinguistics, social NLP, information extraction, inference, question answering</li>
 </ul>
 
-<!-- <p><b>Course Work and Grading: </b> Your grade will be comprised of the following.</p>
+<p><b>Course Work and Grading: </b> Your grade will be comprised of the following.</p>
 <ul>
-<li>60% - Six programming assignments, each worth 10%</li>
-<li>20% - Midterm Exam</li>
-<li>20% - Final Exam</li>
-</ul> -->
+<li>Four programming assignments</li>
+<li>Class project - 4 stages (annotation task design, annotation, baseline design, modeling for challenge competition)
+<li>Midterm Exam</li>
+<li>Final Exam</li>
+</ul>
