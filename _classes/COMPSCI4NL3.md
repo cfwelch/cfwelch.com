@@ -42,7 +42,7 @@ Winter 2025
 <p><b>Course Work and Grading: </b> Your grade will be comprised of the following.</p>
 <ul>
 <li>Four programming assignments</li>
-<li>Class project - 4 stages (annotation task design, annotation, baseline design, modeling for challenge competition)
+<li>Class project - 4 stages (annotation task design, annotation, baseline design, modeling for challenge competition)</li>
 <li>Midterm Exam</li>
 <li>Final Exam</li>
 </ul>
