@@ -7,6 +7,8 @@ nav: true
 ---
 
 ## [McMaster University](https://www.mcmaster.ca/)
+### Fall 2025
+[Applied Machine Learning (COMPSCI 4AL3)](/classes/COMPSCI4AL3/)
 ### Winter 2025
 [Natural Language Processing (COMPSCI 4NL3)](/classes/COMPSCI4NL3/)
 
