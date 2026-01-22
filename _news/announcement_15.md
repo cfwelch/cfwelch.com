@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2026-01-20
+date: 2025-11-30
 inline: true
 ---
 
-Our paper *Examining the Utility of Self-disclosure Types for Modeling Annotators of Social Norms* was accepted to EACL Findings!
+Happy to say our Marburg (Funke) and McMaster (Aadi, Sarvin, Virendra) teams acheieved competitive results on the NLPerspectives shared task!
