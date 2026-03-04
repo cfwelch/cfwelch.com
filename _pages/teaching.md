@@ -7,6 +7,9 @@ nav: true
 ---
 
 ## [McMaster University](https://www.mcmaster.ca/)
+### Winter 2026
+Natural Language Processing (CAS 732) Graduate Level
+[Natural Language Processing (COMPSCI 4NL3)](/classes/COMPSCI4NL3/)
 ### Fall 2025
 [Applied Machine Learning (COMPSCI 4AL3)](/classes/COMPSCI4AL3/)
 ### Winter 2025
